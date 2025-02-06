@@ -245,4 +245,11 @@ The tool uses several AI agents, each configurable through environment variables
 
 MIT License
 
+## Thanks
+Thanks to everyone who starred this project — more to come!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=omni-georgio/deep_research-&type=Date)](https://star-history.com/#omni-georgio/deep_research-&Date)
+
 
